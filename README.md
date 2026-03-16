@@ -9,4 +9,3 @@
 ИТМО id471680: Антипина Анастасия Евгеньевна  
 Почта: aeantipina@gmail.com  
 Telagram: @ae_ana
-Test commit to main
