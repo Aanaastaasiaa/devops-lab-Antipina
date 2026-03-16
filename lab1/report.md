@@ -2,7 +2,7 @@
 
 
 **Университет:** [ITMO University](https://itmo.ru/ru/)  
-**Факультет:** [FICT](https://fict.itmo.ru)  
+**Факультет:** [FTMI] 
 **Курс:** [Введение в веб‑технологии](https://itmo-ict-faculty.github.io/introduction-in-web-tech/)  
 **Группа:** U4125  
 **Автор:** Антипина Анастасия Евгеньевна  
