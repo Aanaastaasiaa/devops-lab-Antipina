@@ -34,7 +34,7 @@ MkDocs - система генерации документации
  
 
 2. **Этап 2: Настройка конфигурации**  
-    - Настроены базовые параметры сайта в [mkdocs.yml](https://github.com/Aanaastaasiaa/devops-lab-Antipina/coursework/mkdocs.yml)  
+    - Настроены базовые параметры сайта в [mkdocs.yml](mkdocs.yml)  
     - Добавлена тема Material с расширенными функциями.  
     - Создана структура навигации.  
 
