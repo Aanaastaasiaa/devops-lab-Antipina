@@ -1,0 +1,31 @@
+site_name: Моё портфолио
+site_description: Персональный сайт-портфолио
+site_author: Антипина Анастасия
+site_url: https://aeantipina.com
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+  palette:
+    primary: indigo
+    accent: blue
+  logo: images/logo.png
+
+nav:
+  - Главная: index.md
+  - О себе: about.md
+  - Проекты: projects.md
+  - Достижения: achievements.md
+  - Контакты: contacts.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Aanaastaasiaa
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/username
